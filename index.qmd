@@ -1,0 +1,15 @@
+---
+title: testing Discus in Quarto
+format: html
+comments:
+  giscus:
+    repo: gordonwoodhull/discus-quarto
+---
+
+
+## Let's try Discus in Quarto
+
+
+Please comment below!
+
+
